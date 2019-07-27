@@ -428,7 +428,7 @@ img {
 }
 /* Mobile/Tablet Nav CSS */
 /* Uncomment to return */
-/*.breakpoint-on .classycloseIcon {
+.breakpoint-on .classycloseIcon {
   display: block;
 }
 .breakpoint-on .classy-navbar-toggler {
@@ -532,7 +532,7 @@ img {
 .breakpoint-on .classynav ul li.has-down.active>a:after,
 .breakpoint-on .classynav ul li.megamenu-item.active>a:after {
   color: #2ecc71;
-}*/
+}
 /* Dark Theme CSS */
 .dark.classy-nav-container {
   background-color: #192a56;
