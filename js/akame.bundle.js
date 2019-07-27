@@ -41,7 +41,7 @@
         // default options
         var defaultOpt = $.extend({
             theme: 'light',
-            breakpoint: 991,
+            breakpoint: 0,
             openCloseSpeed: 350,
             megaopenCloseSpeed: 700,
             alwaysHidden: false,
